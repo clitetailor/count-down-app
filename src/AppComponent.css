@@ -1,0 +1,23 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: orange;
+}
+
+p {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2.4rem;
+  letter-spacing: -1px;
+}
